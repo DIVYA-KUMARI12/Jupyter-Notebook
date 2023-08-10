@@ -1,5 +1,5 @@
 # Jupyter-Notebook
-It consists of almost all the Commands of the Jupyter-Notebook
+It consists of almost all the Commands of the Jupyter-Notebook 
 
 # Data Science Tools and Ecosystem
 
