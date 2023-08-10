@@ -50,12 +50,12 @@ In a code cell, you can perform operations like multiplying and adding integers:
 # This is a simple arithmetic expression to multiply and then add integers.
 result = (3 * 4) + 5
 print(result)  # Output: 17
-Objectives
+
 Objectives:
 
 List popular languages for Data Science
 Identify commonly used libraries in Data Science
 Introduce open-source tools for Data Science
-Author
+
 Author: Divya Kumari
 
