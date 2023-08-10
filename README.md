@@ -1,8 +1,7 @@
 # Jupyter-Notebook
 It consists of almost all the Commands of the Jupyter-Notebook
-# Data Science Tools and Ecosystem
 
-![Project Banner](banner.png) <!-- Add a banner image if you have one -->
+# Data Science Tools and Ecosystem
 
 In this repository, you will find a Jupyter Notebook summarizing the Data Science Tools and Ecosystem. The notebook covers popular programming languages, libraries, and tools commonly used in data science.
 
